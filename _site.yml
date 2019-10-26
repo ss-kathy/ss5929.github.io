@@ -11,4 +11,4 @@ navbar:
       href: http://ss5929.github.io/p8105_hw4_ss5929.html
 output:
   html_document:
-    theme: cerulean
+    theme: black

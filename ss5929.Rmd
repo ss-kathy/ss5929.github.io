@@ -1,0 +1,16 @@
+---
+title: "My website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is me:
+
+![](kathy.jpeg)
+
+# This is my github website:
+
+[github](https://github.com)
